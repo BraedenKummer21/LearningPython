@@ -1,6 +1,1 @@
-print("My top five favorite movies:")
-print("Pacific Rim")
-print("Real Steel")
-print("No game no life zero")
-print("Boy and the Beast")
-print("Silent Voice")
+print("My top five favorite movies:\nPacific Rim\nReal Steel\nNo game no life zero\nBoy and the Beast\nSilent Voice")
