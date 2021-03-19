@@ -1,1 +1,11 @@
-print("My top five favorite movies:\nPacific Rim\nReal Steel\nNo game no life zero\nBoy and the Beast\nSilent Voice")
+adjective = ""
+adjective1 = ""
+bird = ""
+room = ""
+verb = ""
+verb1 = ""
+name = ""
+noun = ""
+liquid = "" 
+verbing = ""
+print("It was a " + adjective + ", cold November day. I woke up to the " + adjective1 + " smell of " + bird + " roasting in the " + room + " downstairs. I " + verb + " down the stairs to see if I could help " + verb1 + " the dinner. My mom said, see if " + name + " needs a fresh " + noun + ". So i carried a tray of glasses full of " + liquid + " into the " + verbing + " room. ")
