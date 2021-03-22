@@ -1,11 +1,11 @@
-adjective = "abrupt"
-adjective1 = "warm"
-bird = "chicken"
-room = "kitchen"
-verb = "ran"
-verb1 = "set"
-name = "Jacob"
-noun = "drink"
-liquid = "milk" 
-verbing = "living"
+adjective = input("Name an adjective: \n")
+adjective1 = input("Name another adjective: \n")
+bird = input("What is a type of bird? \n")
+room = input("What is your favorite room in your house? \n")
+verb = input("Name a verb: \n")
+verb1 = input("Name another verb: \n")
+name = input("What's a cool name?\n")
+noun = input("Name a noun:\n")
+liquid = input("Favorite liquid: \n")
+verbing = input("Name a verb, this time with -ing: \n")
 print("It was a " + adjective + ", cold November day. I woke up to the " + adjective1 + " smell of " + bird + " roasting in the " + room + " downstairs. I " + verb + " down the stairs to see if I could help " + verb1 + " the dinner. My mom said, see if " + name + " needs a fresh " + noun + ". So I carried a tray of glasses full of " + liquid + " into the " + verbing + " room. ")
